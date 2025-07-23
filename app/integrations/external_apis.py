@@ -4,7 +4,7 @@
 
 import asyncio
 import random
-from typing import Dict, Any
+from typing import Dict, Any, List
 from datetime import datetime
 import structlog
 
